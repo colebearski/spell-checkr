@@ -26,6 +26,9 @@ function handleDictionary(dictionaryFile) {
     }
 }
 
+// Set dictionary const from our dictionary handler with the dictionary file arg
+const dictionary = handleDictionary(dictionaryFile);
+
 /**
  * Method to check spelling of input file
  * Read contents of fileToCheck, filter against dictionary and return proper and incorrect words
@@ -63,9 +66,6 @@ function handleSpellCheck(dictionary) {
         console.error('[spellCheckr] (handleSpellCheck) threw an error. ', err);
     }
 }
-
-// Set dictionary const from our dictionary handler with the dictionary file arg
-const dictionary = handleDictionary(dictionaryFile);
 
 // Set spellCheck const from our spell check handler with the dictionary const
 const spellCheck = handleSpellCheck(dictionary);
