@@ -4,9 +4,11 @@
 
 # spell-checkr
 
-One of the hottest new programs out there, spell checkr! This program utilizes a built in dictionary and will spell check a text file filled with words. Who needs Microsoft spell check when you have spell checkr?!
+One of the hottest new programs out there, Spell-checkr! This program utilizes a built in dictionary and will spell check a text file filled with words. Who needs Microsoft spell check when you have Spell-checkr?!
 
 ## How to run
+
+Spell-checkr assumes you have NodeJS installed on your system.
 
 Fork the repo and checkout `master`.
 
