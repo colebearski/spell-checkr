@@ -1,0 +1,28 @@
+{
+    "name": "spellcheckr",
+    "version": "0.0.0",
+    "scripts": {
+        "spell-checkr": "node spellCheckr.js",
+        "start": "node server.js"
+    },
+    "private": true,
+    "browser": {
+        "url": false,
+        "child_process": false,
+        "fs": false,
+        "http": false,
+        "https": false
+    },
+    "description": "",
+    "main": "server.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/colebearski/spell-checkr.git"
+    },
+    "author": "Cole Pedersen",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/colebearski/spell-checkr/issues"
+    },
+    "homepage": "https://github.com/colebearski/spell-checkr#readme"
+}
