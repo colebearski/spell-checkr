@@ -8,6 +8,8 @@ One of the hottest new programs out there, spell checkr! This program utilizes a
 
 ## How to run
 
+Fork the repo and checkout `master`.
+
 There's a file in this repository called `test.txt` inside of `files` e.g., `files/test.txt`.
 
 In that file, provide any words you would like spell checked, in an individual line format:
