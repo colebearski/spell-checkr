@@ -17,7 +17,7 @@ second
 third
 ```
 
-Save your changes once your provide your words for sacrifice.
+Save your changes once you provide your words for sacrifice.
 
 Then in a terminal, run:
 ```
@@ -37,7 +37,7 @@ You should receive an output similar to the following upon completion
 
 ## More to come features
 
-- For each misspelled word, the program outputs a list of suggested words. - TODO
+- For each misspelled word, the program outputs a list of suggested words.
 - The program includes the column number of the misspelled word
 - The program prints the misspelled word along with some surrounding context.
 - The program handles proper nouns (person or place names, for example) correctly.
