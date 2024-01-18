@@ -2,7 +2,7 @@
     "name": "spellcheckr",
     "version": "0.0.0",
     "scripts": {
-        "spell-checkr": "node spellCheckr.js",
+        "spell-checkr": "node spellCheckr.js dictionary ",
         "start": "node server.js"
     },
     "private": true,
