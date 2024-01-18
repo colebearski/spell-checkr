@@ -1,4 +1,4 @@
-<img src="./assets/no-ragrets.png" width="35%">
+<img align="center" src="./assets/no-ragrets.png" width="35%">
 
 # spell-checkr
 
@@ -24,7 +24,7 @@ npm run spell-checkr test
 
 You should receive an output similar to the following upon completion
 
-<img src="./assets/no-ragrets.png" width="35%">
+<img align="center" src="./assets/sample.png" width="35%">
 
 ## Current features
 
